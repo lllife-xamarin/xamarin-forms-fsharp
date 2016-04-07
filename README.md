@@ -1,6 +1,6 @@
 ### Hello XamarinForms in F#
 
-### Reference
+#### Reference
 
 - https://github.com/charlespetzold/xamarin-forms-samples
 

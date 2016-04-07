@@ -1,4 +1,4 @@
-### Hello XamarinForms in F#
+### Hello XamarinForms in FSharp
 
 #### Reference
 

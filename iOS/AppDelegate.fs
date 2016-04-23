@@ -4,6 +4,7 @@ open System
 open UIKit
 open Foundation
 open Xamarin.Forms
+open Xamarin.Forms.Platform.iOS
 
 [<Register ("AppDelegate")>]
 type AppDelegate () =
